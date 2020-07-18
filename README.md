@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+## Welcome to my profile, if you look close enough you'll find out how i did this. 
+## I'll try to connect all the peices of work my directly in this , so they are easily reachable to you (and to me as well) , Cheers.
+
 <!--
 **onePlusHalf/onePlusHalf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
