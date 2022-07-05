@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-## Welcome to my profile, if you look close enough you'll find out how i did this. 
+## Welcome to my profile. 
 ## I'll try to connect all the pieces of my work directly in this , so they are easily reachable to you (and to me as well) , Cheers.
 
 <!--
